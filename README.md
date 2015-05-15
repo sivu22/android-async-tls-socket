@@ -1,5 +1,5 @@
 # android-async-tls-socket
-Simple to use asynchronous socket for establishing a TLS connection with an Android phone.<br>
+Simple to use asynchronous socket for establishing a TLS connection from an Android phone.<br>
 Born from the frustration of lacking a simple and fast way to achieve this on Android, where the focus seems to be only on https. And SSLEngine seems overkill.
 
 ### Self-signed certificates
